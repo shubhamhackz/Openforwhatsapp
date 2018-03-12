@@ -15,8 +15,8 @@ These instructions will get you a copy of the project up and running on your loc
 ## Features
 * Enter a phone number and open chat directly
 * Share Chat link
-* Esay and clean interface
-* Chat whit your self 
+* Easy and clean interface
+* Chat with yourself 
 * Option to change Country Code 
 * Save numbers to use later(To be Added)
 * Country code detected automatically(To be Added)
@@ -29,7 +29,7 @@ Please read [CONTRIBUTING.md](https://github.com/shubhamhackz/Openforwhatsapp/bl
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/shubhamhackz/Openforwhatsapp/tags). 
 
 ## Authors
 

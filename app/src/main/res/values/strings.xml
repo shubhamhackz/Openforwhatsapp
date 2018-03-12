@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alternate_cancel">Cancel</string>
+    <string name="alternate_continue">Understood</string>
+    <string name="alternate_message">Warning: using this option will open the number using a different shortcut.\nA chat will probably be opened, even if the number does not exist or it is invalid.\nUse with care! </string>
+    <string name="alternate_title">Alternate Shortcut</string>
+    <string name="app_name">Open in Whatsapp</string>
+    <string name="btn_openInWhatsapp">Open</string>
+    <string name="btn_shareLink">Share</string>
+    <string name="ctnDesc_recent">recent</string>
+    <string name="error_badData">Error while opening. Incorrect data</string>
+    <string name="error_nowhatsapp">Couldn&apos;t open Whatsapp. Is it installed?</string>
+    <string name="hint_editPrefix">Pref</string>
+    <string name="hint_editText">Number</string>
+    <string name="hint_message">Message that will be autocompleted, NOT sent.</string>
+    <string name="title_chooseCountry">Prefix by country:</string>
+    <string name="title_sendTo">Send link to:</string>
+    <string name="toast_autoParser">Automatic parser.\nCheck the prefix!</string>
+    <string name="toast_copied">Copied to clipboard</string>
+    <string name="txt_description">This app uses whatsapp public api to open a chat with any number you enter. No contact is created on the device. \nMore info here.\n\nInsert the number and the prefix with no extra characters, only numbers 0–9. You can click on the &apos;+&apos; item to choose from a list.\nExample: for +44 (UK) 123 456 7890 write 44 1234567890</string>
+    <string name="txt_extra_description">\nUse this to create a link that will open whatsapp when clicked. You can specify a number and/or a message that will be placed on the input box (will NOT, I repeat, will NOT send the message).</string>
+</resources>

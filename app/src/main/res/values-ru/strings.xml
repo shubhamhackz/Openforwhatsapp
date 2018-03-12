@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alternate_cancel">Отмена</string>
+    <string name="alternate_continue">Понятно</string>
+    <string name="alternate_message">Предупреждение: при использовании этой функции номер будет открыт с помощью другого ярлыка.\nВозможно, чат будет открыт, даже если номер не существует или он недействителен.\nИспользуйте с осторожностью!</string>
+    <string name="alternate_title">Альтернативный ярлык</string>
+    <string name="app_name">Открыть в WhatsApp</string>
+    <string name="btn_openInWhatsapp">Открыть WhatsApp</string>
+    <string name="btn_shareLink">Создать ссылку</string>
+    <string name="ctnDesc_recent">Недавние</string>
+    <string name="error_badData">Ошибка при открытии. Введены некорректные данные.</string>
+    <string name="error_nowhatsapp">Не удаётся открыть Whatsapp. Он вообще установлен?</string>
+    <string name="hint_editPrefix">Код</string>
+    <string name="hint_editText">Номер</string>
+    <string name="hint_message">Сообщение, которое будет вставлено, но НЕ отправлено.</string>
+    <string name="title_chooseCountry">Коды стран:</string>
+    <string name="title_sendTo">Открыть ссылку в:</string>
+    <string name="toast_autoParser">Автоматическое распознавание.\nПроверьте код страны!</string>
+    <string name="toast_copied">Скопировано в буфер обмена</string>
+    <string name="txt_description">Это приложение использует открытый API WhatsApp для создания диалога с любым введённым номером. Контакт на устройстве не создаётся.\nПодробнее здесь.\n\nВведите код страны и номер без дополнительных символов, только цифры 0-9. Можно нажать кнопку &apos;+&apos; для выбора кода страны из списка.\nПример: для +7 (РФ) 123-456-78-90 введите 7 1234567890</string>
+    <string name="txt_extra_description">\nДанный инструмент создаёт ссылку, по которой будет открываться WhatsApp. Можно указать номер и/или сообщение, которое будет помещено в поле ввода (но не будет, повторяю, НЕ БУДЕТ отправлено).</string>
+</resources>

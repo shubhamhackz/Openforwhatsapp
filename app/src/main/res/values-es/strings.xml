@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alternate_cancel">Cancelar</string>
+    <string name="alternate_continue">Entendido</string>
+    <string name="alternate_message">Cuidado: usar esta opción abrirá el número usando un método alternativo.\nUna conversación probablemente se abra, incluso si el numero no existe o es inválido.\n¡Usalo con precaución!</string>
+    <string name="alternate_title">Atajo alternativo</string>
+    <string name="app_name">Abrir en Whatsapp</string>
+    <string name="btn_openInWhatsapp">Abrir</string>
+    <string name="btn_shareLink">Compartir</string>
+    <string name="ctnDesc_recent">recientes</string>
+    <string name="error_badData">Error al abrir. Datos incorrectos</string>
+    <string name="error_nowhatsapp">No se ha podido abrir Whatsapp. ¿Está instalado?</string>
+    <string name="hint_editPrefix">Pref</string>
+    <string name="hint_editText">Número</string>
+    <string name="hint_message">Mensaje que será autocompletado, NO se enviará.</string>
+    <string name="title_chooseCountry">Prefijo por país:</string>
+    <string name="title_sendTo">Enviar enlace a:</string>
+    <string name="toast_autoParser">Extracción automática.\n¡Comprueba el prefijo!</string>
+    <string name="toast_copied">Copiado al portapapeles</string>
+    <string name="txt_description">Esta aplicación utiliza la api pública de Whatsapp para abrir un chat con cualquier número que introduzcas. Ningún contacto se crea en el teléfono. \nMás información aquí.\n\nIntroduce el número y el prefijo sin carácteres extra, sólo números 0–9. Puedes pulsar en el símbolo &apos;+&apos; para elegir de un listado.\nEjemplo: para +34 (España) 123 456 789 escribe 34 123456789</string>
+    <string name="txt_extra_description">\nUse esto para crear un enlace que abrirá whatsapp al clickarlo. Puede indicar un número y/o añadir un mensaje que será incluido en el cuadro de texto (NO, repito, NO será enviado).</string>
+</resources>

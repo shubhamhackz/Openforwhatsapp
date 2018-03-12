@@ -9,6 +9,9 @@ With this app you can open chat in whatsapp with any number even if you don't wa
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+## ScreenShots
+![alt text](https://user-images.githubusercontent.com/15217195/37268322-4c6a605c-25eb-11e8-9aa4-32acc889d109.png)
+
 ## Features
 * Enter a phone number and open chat directly
 * Share Chat link
